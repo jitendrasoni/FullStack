@@ -1,0 +1,35 @@
+Reference - https://www.c-sharpcorner.com/article/javascript-vs-jquery-difference-between-javascript-and-jquery/
+
+If I use JavaScript,
+document.getElementsByClassName("simple-li");   
+On the other hand, if I use jQuery,
+$('simple-li')
+
+
+A few points to remember
+ 
+jQuery
+A fast and concise JavaScript Library
+A framework which makes event handling, animating, and Ajax interactions simpler and faster
+Uses resources given by JavaScript to make things easier 
+need not write much scripting which already exists in jQuery
+Is a multi-browser JavaScript library which reduces the work of developers during deployment
+Developers don’t have to worry about browser compatibility issues.
+Need to include the jQuery library URL in the header of the page
+Fewer lines of code
+Suited for complex operations where developers are prone to mistakes and writing poor lines of code.
+ 
+Advantages of jQuery
+You can code the most common JS actions using jQuery with fewer lines of code.
+Browser compatibility – you can write code that runs across browsers without having to know the various browser intricacies and won’t break.
+Lets you write JavaScript quicker and easier.
+Avoids common browser errors
+Simplification of usually complicated operations – complex operations like Ajax interactions, animation, event handling etc. are handled by jQ with the best lines of code.
+jQ is battle-tested and uses the fast and best lines of code for accomplishing most tasks.
+Conclusion
+ 
+jQuery is well suited for most applications, especially ones which need rapid development. jQuery takes care of the common browser errors by ironing the fixes right into the library. jQuery also takes care of browser compatibility issues which is a developer’s nightmare during deployment.
+ 
+Using JavaScript or jQuery really depends on your need and other factors. Most of the web development projects will work perfectly fine using jQuery. But there will be a small percentage that does require JavaScript.
+ 
+Since pure JavaScript is the best performing method of client-side development, there is a reason to use it. But a library like jQuery will help you to get to market faster and cheaper. So, it is better to depend heavily on jQuery for the initial versions of your product. Once your product is established in the marked and you have got the revenues to go back and refactor the code, you can go ahead and custom code all the script.
