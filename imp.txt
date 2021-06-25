@@ -1,0 +1,2 @@
+-LicenseXmlPath C:\License\license.xml
+Set-ExecutionPolicy Unrestricted
